@@ -21,7 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,react,jest,vite,vitest,cypress,nextjs,coffeescript,nodejs,express,html,css,bootstrap,tailwind&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,graphql,rabbitmq,docker,heroku,kubernetes,terraform&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,graphql,rabbitmq,docker,heroku,kubernetes,terraform,aws&perline=10)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=10)](https://skillicons.dev)
 
