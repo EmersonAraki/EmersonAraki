@@ -19,24 +19,14 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Ruby | JavaScript | TypeScript | SQL
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,react,jest,vite,vitest,cypress,nextjs,coffeescript,nodejs,express,html,css,bootstrap,tailwind&perline=10)](https://skillicons.dev)
 
-- 🌐 &nbsp; Ruby on Rails | React.js | Next.js | GraphQL | REST APIs
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,graphql,rabbitmq,docker,heroku,kubernetes,terraform&perline=10)](https://skillicons.dev)
 
-- 🛢 &nbsp; PostgreSQL | Redis | MongoDB
-
-- ⚡ &nbsp; Sidekiq | Background Jobs | Performance Optimization | Caching
-
-- ☁️ &nbsp; AWS S3 | Docker | CI/CD | Heroku
-
-- 🧪 &nbsp; RSpec | Vitest | Cypress | Test Automation | TDD
-
-- 🔧 &nbsp; Git | GitHub | Linux | Agile | SDLC
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=10)](https://skillicons.dev)
 
 <h3>🛠 Currently Learning</h3>
 
-- ☁️ &nbsp; AWS Architecture | Microservices | Distributed Systems
-
-- 📈 &nbsp; System Design | Scalability | Observability
+[![My Skills](https://skillicons.dev/icons?i=aws,go,python,swift,&perline=10)](https://skillicons.dev)
 
 <hr>
