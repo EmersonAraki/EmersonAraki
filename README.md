@@ -7,7 +7,7 @@
 
 - 🚀 &nbsp; Full Stack Software Engineer focused mainly on backend development with around 7 years of experience building scalable web applications and high-performance services.
 
-- 💼 &nbsp; Experience working with international companies through :contentReference[oaicite:0]{index=0}, contributing to healthcare, fintech, education, and SaaS platforms.
+- 💼 &nbsp; Experience working with international companies contributing to healthcare, fintech, education, and SaaS platforms.
 
 - ⚙️ &nbsp; Passionate about system design, performance optimization, scalable architectures, background processing, and database optimization.
 
